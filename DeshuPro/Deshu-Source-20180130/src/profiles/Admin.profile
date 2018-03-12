@@ -4,7 +4,7 @@
         <apexClass>AccountHandler</apexClass>
         <enabled>true</enabled>
     </classAccesses>
-    i am an student.
+    i am a student.
     <classAccesses>
         <apexClass>AccountManager</apexClass>
         <enabled>true</enabled>
