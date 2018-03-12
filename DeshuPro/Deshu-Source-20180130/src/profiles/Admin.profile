@@ -2,11 +2,12 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
         <apexClass>AccountHandler</apexClass>
-        <enabled>fase</enabled>
+        <enabled>true</enabled>
     </classAccesses>
+    i am an student.
     <classAccesses>
         <apexClass>AccountManager</apexClass>
-        <enabled>fase</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>AccountManagerTest</apexClass>
