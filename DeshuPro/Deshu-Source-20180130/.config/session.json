@@ -1,0 +1,19 @@
+{
+    "rest_url": "https://testdomainsone-dev-ed.my.salesforce.com/services/data/v35.0", 
+    "apex_url": "https://testdomainsone-dev-ed.my.salesforce.com/services/Soap/s/35.0", 
+    "instance_url": "https://testdomainsone-dev-ed.my.salesforce.com", 
+    "X-SFDC-Session": "00D7F000001Zq1h!AQEAQBvHQtL02h_Z7aZyV7lqmWdoOMtDZ4W6KvoEsmppog.6N9kK6fNF5v.6FkSrBFzUG0TW1RarL7dm9_NdMruxfH4YmqN9", 
+    "time_stamp": "2018-01-30 13:51:25", 
+    "project name": "Deshu-Source", 
+    "server_url": "https://testdomainsone-dev-ed.my.salesforce.com/services/Soap/u/5.0/00D7F000001Zq1h", 
+    "session_id": "00D7F000001Zq1h!AQEAQBvHQtL02h_Z7aZyV7lqmWdoOMtDZ4W6KvoEsmppog.6N9kK6fNF5v.6FkSrBFzUG0TW1RarL7dm9_NdMruxfH4YmqN9", 
+    "success": true, 
+    "user_id": "0057F000000yr22QAA", 
+    "headers": {
+        "Content-Type": "application/json; charset=UTF-8", 
+        "Authorization": "OAuth 00D7F000001Zq1h!AQEAQBvHQtL02h_Z7aZyV7lqmWdoOMtDZ4W6KvoEsmppog.6N9kK6fNF5v.6FkSrBFzUG0TW1RarL7dm9_NdMruxfH4YmqN9", 
+        "Accept": "application/json"
+    }, 
+    "partner_url": "https://testdomainsone-dev-ed.my.salesforce.com/services/Soap/u/35.0", 
+    "metadata_url": "https://testdomainsone-dev-ed.my.salesforce.com/services/Soap/m/35.0"
+}

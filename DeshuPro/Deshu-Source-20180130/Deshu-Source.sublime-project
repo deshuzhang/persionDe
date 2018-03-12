@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "file_exclude_patterns": [
+                "*.*-meta.xml", 
+                "*.sublime-project"
+            ], 
+            "path": "C:/Users/deszhang/projects/Deshu-Source-20180130", 
+            "folder_exclude_patterns": [
+                ".templates"
+            ]
+        }
+    ]
+}

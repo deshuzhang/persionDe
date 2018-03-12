@@ -1,0 +1,38 @@
+<apex:page standardController="Opportunity" extensions="OpportunityInformationPage">
+    <apex:sectionHeader title="Opportunity Edit" subtitle="New Opportunity"></apex:sectionHeader>
+        <apex:form >
+            <apex:pageBlock title="Opportunity Edit" mode="edit">
+                <apex:pageBlockButtons >
+                    <apex:commandButton value="Save" action="{!Saveto}"></apex:commandButton>
+                    <apex:commandButton value="Cancel" action="{!Cancel}"/>
+             </apex:pageBlockButtons>
+        <apex:pageBlockSection columns="2" title="Opportunity Information">
+            <apex:inputField value="{!oppstring.Ownerid}"></apex:inputField>
+            <apex:inputField value="{!oppstring.Amount}"></apex:inputField>
+            <apex:inputField value="{!oppstring.IsPrivate}"></apex:inputField>
+            <apex:inputField value="{!oppstring.CloseDate}"></apex:inputField>
+            <apex:inputField value="{!oppstring.name}"></apex:inputField>
+            <apex:inputField value="{!oppstring.NextStep}"></apex:inputField>
+            <apex:inputField value="{!oppstring.Accountid}"></apex:inputField>
+            <apex:inputField value="{!oppstring.StageName}"></apex:inputField>
+            <apex:inputField value="{!oppstring.Type}"></apex:inputField>
+            <apex:inputField value="{!oppstring.Probability}"></apex:inputField>
+            <apex:inputField value="{!oppstring.LeadSource}"></apex:inputField>
+            <apex:inputField value="{!oppstring.Campaignid}"></apex:inputField>
+        </apex:pageBlockSection>
+
+        <apex:pageBlockSection title="Additional Information">
+            <apex:inputField value="{!oppstring.OrderNumber__c}"></apex:inputField>
+            <apex:inputField value="{!oppstring.MainCompetitors__c}"></apex:inputField>
+            <apex:inputField value="{!oppstring.CurrentGenerators__c}"></apex:inputField>
+            <apex:inputField value="{!oppstring.DeliveryInstallationStatus__c}"></apex:inputField>
+            <apex:inputField value="{!oppstring.TrackingNumber__c}"></apex:inputField>    
+    </apex:pageBlockSection>
+                
+        <apex:pageBlockSection title="Description Information">
+            <apex:inputField value="{!oppstring.Description}"></apex:inputField>
+    	</apex:pageBlockSection>
+    
+</apex:pageBlock>
+</apex:form>
+</apex:page>
