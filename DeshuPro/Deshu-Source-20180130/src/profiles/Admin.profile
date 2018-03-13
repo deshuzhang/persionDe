@@ -5,6 +5,7 @@
         <enabled>true</enabled>
     </classAccesses>
     i am a student.
+    you are a good man.
     <classAccesses>
         <apexClass>AccountManager</apexClass>
         <enabled>true</enabled>

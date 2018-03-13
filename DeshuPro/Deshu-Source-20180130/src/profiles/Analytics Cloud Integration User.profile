@@ -4,6 +4,7 @@
         <apexClass>AccountHandler</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    you are a good man.
     <classAccesses>
         <apexClass>AccountManager</apexClass>
         <enabled>false</enabled>
