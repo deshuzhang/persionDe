@@ -4,6 +4,7 @@
         <apexClass>AccountHandler</apexClass>
         <enabled>false</enabled>
     </classAccesses>
+    you are stupid man.
     <classAccesses>
         <apexClass>AccountManager</apexClass>
         <enabled>false</enabled>
