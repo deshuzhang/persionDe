@@ -2,9 +2,8 @@
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
         <apexClass>AccountHandler</apexClass>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </classAccesses>
-    you are stupid man.
     <classAccesses>
         <apexClass>AccountManager</apexClass>
         <enabled>false</enabled>

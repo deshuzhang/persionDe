@@ -4,8 +4,6 @@
         <apexClass>AccountHandler</apexClass>
         <enabled>true</enabled>
     </classAccesses>
-    i am and niu b student.
-    you are stupid man.
     <classAccesses>
         <apexClass>AccountManager</apexClass>
         <enabled>true</enabled>
